@@ -1,4 +1,4 @@
-# healthcare_treatment_predict
+# Healthcare_Treatment_Predict
 Hospital Treatment Price Prediction System
 A comprehensive machine learning project for predicting hospital treatment costs using patient data and treatment information. This system includes data preprocessing, multiple ML models, evaluation metrics, and both web interface and API endpoints.
 🏥 Project Overview
